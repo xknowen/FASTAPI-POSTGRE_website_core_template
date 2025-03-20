@@ -60,7 +60,7 @@ This project provides a basic template for building a FastAPI-based website with
    ```
 2. Navigate to the project folder:
    ```sh
-   cd FASTAPI-POSTGRE_website_core_template
+   cd website
    ```
 3. Create and activate a virtual environment:
    ```sh
